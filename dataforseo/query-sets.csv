@@ -1,0 +1,12 @@
+brand,query,intent,type,priority,status
+McEvoy Ranch,best olive oil gift for food lovers,gift discovery,best-for,high,seed
+McEvoy Ranch,olive oil gift basket,gift discovery,category,high,seed
+McEvoy Ranch,California olive oil vs Italian olive oil,comparison,x-vs-y,high,seed
+McEvoy Ranch,best olive oil for dipping bread,use case,best-for,medium,seed
+McEvoy Ranch,corporate food gifts for clients,gifting,best-for,medium,seed
+Tech-led.com,LED video wall vs projector,comparison,x-vs-y,high,seed
+Tech-led.com,best LED display for churches,vertical,best-for,high,seed
+Tech-led.com,indoor vs outdoor LED display,comparison,x-vs-y,high,seed
+Tech-led.com,how much does an LED video wall cost,pricing,question,high,seed
+Tech-led.com,what pixel pitch do I need,technical,question,medium,seed
+
