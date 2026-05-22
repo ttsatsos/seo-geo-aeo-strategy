@@ -6,22 +6,24 @@ This methodology was developed during a tech-led.com engagement and applies to a
 
 ## When This Methodology Fits
 
-Use audience-driven content strategy when:
+This framework is **additive to keyword research, not a replacement.** Keyword research tells you what the broader market searches for. Audience-driven analysis tells you which segments of that market actually convert. Run both in parallel where possible.
+
+Use audience-driven content strategy when **all or most** of the following are true:
 
 - the client is B2B with technical or specialized buyers
+- multiple distinct buyer segments exist (industries, applications, use cases, roles) rather than one homogeneous audience
 - the client has accumulated inquiry data (contact forms, CRM, sales notes) for at least 3-6 months
 - Google Search Console reveals impressions and rankings on a meaningful query set
-- the buyer's language in inquiries differs from generic keyword tools' language
-- the client suspects, or has confirmed, that real customers are not arriving through expected SEO queries
+- the buyer's language in inquiries differs from the language returned by generic keyword tools
+- there is a known or suspected gap between who shows up in search analytics and who actually buys (the core signal this methodology exists to address)
 
-Use traditional keyword research when:
+Skip this methodology and rely on traditional keyword research when:
 
-- the client is early-stage with no inquiry history
-- the buyer is a broad consumer audience with predictable search vocabulary
-- the goal is brand discovery rather than buyer conversion
-- the client lacks a CRM or structured contact form
-
-This framework complements, not replaces, keyword research. Run both in parallel where possible.
+- the client is early-stage with no inquiry history or CRM
+- the audience is a single, homogeneous segment with well-defined, predictable search vocabulary
+- the client is B2C with mass-market intent (where generic keyword tools already capture the buyer)
+- the goal is brand discovery or top-of-funnel awareness rather than buyer conversion
+- structured inquiry data does not exist and cannot be reconstructed from sales notes
 
 ## The Four-Step Method
 
