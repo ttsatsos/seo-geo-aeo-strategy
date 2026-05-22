@@ -15,12 +15,12 @@ Comparison pages are the highest-leverage AEO format for technical buyers, who e
 | Narrowband vs Broadband LEDs for Multispectral Imaging | When to choose A over B | Spectral design decision |
 | 1450nm vs 1650nm for Food and Moisture Inspection | X vs Y | SWIR wavelength selection |
 | LED vs VCSEL for Proximity Sensing | X vs Y | Emitter technology selection (currently ranks for this query) |
-| Marubeni vs Osram vs Marktech Industrial LEDs | Brand comparison | Manufacturer positioning |
+| Choosing an Industrial LED Manufacturer: Evaluation Criteria | Buyer evaluation framework | Category-level manufacturer selection |
 
 ## Authoring Notes
 
 - The 365nm vs 395nm comparison is the strongest near-term opportunity. GSC shows 2,000+ monthly impressions in positions 5-7. Push to page 1.
-- The brand comparison page (Marubeni vs Osram vs Marktech) must be authored carefully: factual spec comparison, not competitive disparagement. Lean on Marubeni's strengths (catalog breadth across UV-SWIR, package options, custom array capability) rather than competitor weaknesses.
+- The manufacturer-evaluation page should be authored as taxonomy, not advocacy. Use buyer evaluation criteria as the spine (wavelength range covered, package selection breadth, custom array capability, lead time, distribution model, datasheet completeness). Compare manufacturers by published facts only. Marubeni's strengths should emerge from the evaluation, not be asserted. This framing serves a broader query set (e.g., "best industrial LED manufacturer," "how to choose an industrial LED supplier") than a head-to-head brand comparison, and avoids disparagement risk that comes with naming competitors as the page subject.
 - LED vs VCSEL already ranks. Treat as an optimization candidate, not a new build.
 
 ## Page Requirements
